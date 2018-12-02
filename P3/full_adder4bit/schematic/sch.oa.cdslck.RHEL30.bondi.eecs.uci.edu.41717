@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      weiqianj
 HostName                       bondi.eecs.uci.edu
-ProcessIdentifier              15627
-ProcessCreationTime_UTC        1543698687
-ProcessCreationTime_Readable   Sat Dec  1 13:11:27 2018 PST
+ProcessIdentifier              41717
+ProcessCreationTime_UTC        1543707417
+ProcessCreationTime_Readable   Sat Dec  1 15:36:57 2018 PST
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /users/ugrad/2016/fall/weiqianj/eecs119/Cadence6/P3/fulladder/schematic/sch.oa.cdslck
-TimeEditLocked                 Sat Dec  1 13:29:37 2018 PST
+FilePathUsedToEditLock         /users/ugrad/2016/fall/weiqianj/eecs119/Cadence6/P3/full_adder4bit/schematic/sch.oa.cdslck
+TimeEditLocked                 Sat Dec  1 15:57:27 2018 PST
