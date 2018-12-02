@@ -12,5 +12,5 @@ ProcessCreationTime_Readable   Sat Dec  1 13:17:06 2018 PST
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /users/ugrad/2016/fall/jrzhu/EECS119/Cadence6/eecs_pj3/AND/schematic/sch.oa.cdslck
-TimeEditLocked                 Sat Dec  1 13:23:40 2018 PST
+FilePathUsedToEditLock         /users/ugrad/2016/fall/jrzhu/EECS119/Cadence6/eecs_pj3/and_tb/schematic/sch.oa.cdslck
+TimeEditLocked                 Sat Dec  1 16:01:05 2018 PST
