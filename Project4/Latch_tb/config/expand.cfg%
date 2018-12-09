@@ -1,0 +1,21 @@
+//Revision 2
+//NOTE
+// Default template for spectre
+// Note:
+//      Please remember to replace Top Cell Library, Cell, and View
+//      fields with the actual names used by your design.
+//END_NOTE
+
+config Latch_tb;
+design Project4.Latch_tb:schematic;
+liblist myLib;
+
+viewlist spectre, cmos_sch, \cmos.sch , schematic, veriloga, ahdl, pspice;
+stoplist spectre;
+
+
+inst (Project4.Latch_tb:schematic).I2 binding :extracted;
+inst (Project4.Latch_tb:schematic).I0 binding :schematic;
+
+
+endconfig
